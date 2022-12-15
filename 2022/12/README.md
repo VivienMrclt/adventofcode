@@ -30,3 +30,5 @@ v..v<<<<
 In the above diagram, the symbols indicate whether the path exits each square moving up (^), down (v), left (<), or right (>). The location that should get the best signal is still E, and . marks unvisited squares.
 
 This path reaches the goal in 31 steps, the fewest possible.
+
+What is the fewest steps required to move from your current position to the location that should get the best signal?

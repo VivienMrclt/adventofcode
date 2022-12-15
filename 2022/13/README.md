@@ -1,4 +1,4 @@
-### Day 13: Distress Signal
+# Day 13: Distress Signal
 ## Part 1
 
 You climb the hill and again try contacting the Elves. However, you instead receive a signal you weren't expecting: a distress signal.
@@ -160,7 +160,7 @@ Organize all of the packets into the correct order. **What is the decoder key fo
 
 ```bash
 cp complex_input.txt input.txt
-python3 srcipt.py
+python3 script.py
 ```
 output:
 ```
